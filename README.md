@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pse_vitor) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Oquaze) 
 
 📚Estudante de Ciência da Computação <br>🏫Universidade Paulista UNIP<br>💻Projetos de Portiflólio<br>
-#GitHub
+# GitHub
 ![](https://github-readme-stats.vercel.app/api?username=QuaseVitor&theme=gotham&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=QuaseVitor&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=QuaseVitor&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
